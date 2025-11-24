@@ -1,0 +1,110 @@
+/* body {
+  padding: 0;
+  margin: 0;
+  font-family: 'Inter';
+}
+
+
+.main-container {
+
+  width: 100%;
+  height: 100vh;
+  padding: 0;
+  margin: 0;
+  display: flex;
+}
+
+.left-container{
+  background-color: #205387;
+  width: 60%;
+}
+
+
+.right-container{
+
+  width: 40%;
+  padding-top: 60px;
+  padding-left: 5%;
+  padding-right: 5%;
+}
+
+.login-container {
+  color: #2E3849;
+}
+
+
+.login-container h2 {
+  font-size: 20px;
+  font-weight: 600;
+  line-height: 28px;
+  letter-spacing: -0.33px;
+  margin-bottom: 8px;
+
+}
+
+.login-container p {
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 20px;
+  letter-spacing: -0.09px;
+  margin-top: 0;
+  margin-bottom: 32px;
+  
+}
+
+.input-field {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 24px;
+}
+
+.input-field label {
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 20px;
+  letter-spacing: -0.18px;
+  margin-bottom: 4px;
+}
+
+.input-field input {
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  letter-spacing: -0.018px;
+  line-height: 20px;
+  padding-left: 16px;
+  padding-top: 16px;
+  padding-bottom: 16px;
+  padding-right: 40px;
+  border-radius: 3px;
+  border: 1px solid #E0E0E0;
+
+}
+
+.input-field input::placeholder {
+  color: #BDBDBD;
+}
+
+.forgot-password {
+  margin-top: 6px;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 20px;
+  letter-spacing: -0.09px;
+}
+
+.sign-in-button {
+  background-color: #205387;
+  width: 100%;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 20px;
+  letter-spacing: -0.18px;
+  color: #FFFFFF;
+  padding: 16px;
+  margin-top: 20px;
+} */
